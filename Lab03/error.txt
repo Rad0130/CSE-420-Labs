@@ -1,0 +1,29 @@
+Error at line no: 16 : Multiple declaration of variable a in parameter list
+Error at line no: 16 : Multiple declaration of variable a in parameter list
+Error at line no: 33 : Void function cannot return a value
+Error at line no: 37 : Multiple declaration of variable a
+Error at line no: 38 : variable type can not be void
+Error at line no: 39 : Multiple declaration of variable a
+Error at line no: 39 : Multiple declaration of variable c
+Error at line no: 44 : variable is of array type : c
+Error at line no: 45 : Inconsistencies in number of arguments in function call: correct_foo
+Error at line no: 47 : Undeclared variable k
+Error at line no: 48 : variable is not of array type : b
+Error at line no: 49 : array index is not of integer type : c
+Error at line no: 49 : array index is not an integer : c
+Error at line no: 50 : array index is not of integer type : c
+Error at line no: 50 : operation on void type
+Error at line no: 51 : array index is not of integer type : c
+Error at line no: 52 : array index is not of integer type : c
+Error at line no: 52 : operation on void type
+Error at line no: 53 : array index is not of integer type : c
+Error at line no: 53 : array index is not of integer type : c
+Error at line no: 53 : operation on void type
+Error at line no: 54 : array index is not of integer type : c
+Error at line no: 55 : Modulus operator on non integer type
+Error at line no: 55 : Modulus by 0 
+Error at line no: 56 : Modulus operator on non integer type
+Error at line no: 58 : Undeclared function: foo5
+Error at line no: 60 : Undeclared variable h
+
+Total error lines: 19
